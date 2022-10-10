@@ -1,0 +1,104 @@
+
+
+.aside{
+    background-color: var(--color-grey-3);
+}
+
+.vacancy-selector-div{
+    background-color: var(--color-grey-6);
+    border-radius: 8px;
+    height: 350px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+
+.selected-vacancy-title{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.div-all-p{
+    margin-top: 30px;
+    display:flex ;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.p1{
+    background-color: var(--color-grey-4);
+    padding: 10px;
+    width: 48%;
+    border-radius: 8px;
+    max-height: 20px;
+}
+
+.p2{
+    background-color: var(--color-grey-4);
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    max-height: 20px;
+}
+
+.div-p{
+    display: flex;
+    gap: 8px;
+}
+
+.div-p{
+    height: 20px;
+}
+
+.p3{
+    background-color: var(--color-grey-4);
+    padding: 10px;
+    width: 40%;
+    border-radius: 8px; 
+    max-height: 20px;
+}
+
+.p4{
+    background-color: var(--color-grey-4);
+    padding: 10px;
+    width: 20%;
+    border-radius: 8px;
+    max-height: 20px;
+}
+
+.mini-cards-apply-vacancy{
+    background-color: var(--color-grey-3);
+    height: 100px;
+    margin-top: 30px;
+    /* margin-bottom: 10px; */
+}
+
+.aside-div-mini-cards{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    background-color: var(--color-grey-6);
+    border-radius: 8px;
+    height: 120px;
+    padding: 12px 16px;
+}
+
+.remove-button-h3-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.position-job{
+    margin-top: 0px;
+}
+
+.close-button-class img{
+    height: 25px;
+}
+
+.location-company-div-aside{
+    text-align: left;
+}
